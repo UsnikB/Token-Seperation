@@ -1,4 +1,4 @@
-# Token-Seperation
+# Token-Seperation or Lexical Analysis
 Lexical Analysis
 Scanning is the first phase of a compiler in which the source program is read character by character and then grouped in to various tokens.
 Token is defined as sequence of characters with collective meaning. The various tokens could be identifiers, keywords, operators, 
